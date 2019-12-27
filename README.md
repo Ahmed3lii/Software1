@@ -15,7 +15,3 @@ this is a project in Fcai in software 1
 - [x] Package
 - [x] Requirement SRS
 - [x] Database
-
-
-
-                                :+1:
